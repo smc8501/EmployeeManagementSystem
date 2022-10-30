@@ -1,6 +1,11 @@
 # Employee Management System
 
-## Project Description
+I have used Python and its built-in library SQLite3 to implement this project.
 
-* This python project is able to create, read, update and delete employee entries. 
-* This is done by using the built-in library SQLite3 to create a small database and using the object-orientated approach to encapsulate the specific code of SQLite3 into functions to make it easier for programmers to use the program.
+This project allowed me to learn more about creating databases using SQL.
+
+Learning Resource: Corey Schafer
+https://youtu.be/pd-0G0MigUA 
+
+
+
